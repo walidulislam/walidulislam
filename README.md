@@ -14,7 +14,7 @@
 
 <p><em>Frontend Developer | Passionate about Web Development <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
-[![Linkedin: Walid](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walidul-islam-b05b2738b/)](https://www.linkedin.com/in/walidul-islam-b05b2738b/)
+[![Linkedin: Walid](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walidulislam/)](https://www.linkedin.com/in/walidulislam/)
 [![GitHub Followers](https://img.shields.io/github/followers/walidulislam?label=follow&style=social)](https://github.com/walidulislam)
 
 ---
@@ -23,7 +23,7 @@
 
 I am a dedicated **Frontend Developer** with a strong passion for building modern, responsive, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-* 🔭 I’m currently working on advanced **MERN Stack** projects.
+* 🔭 I’m currently building projects with React.js and MERN Stack while exploring Next.js.
 * 🌱 I’m currently deepening my knowledge in **React.js** and **Next.js**.
 * 💬 Ask me about **React, Tailwind CSS, or JavaScript**—I’m always happy to help!
 * ⚡ Fun fact: When I'm not coding, I enjoy exploring new tech trends.
